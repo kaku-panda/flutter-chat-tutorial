@@ -1,16 +1,5 @@
-# friendly_chat
-
-A new Flutter project.
-
 ## Getting Started
-
 This project is a starting point for a Flutter application.
+Chat Aplication UI
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![スクリーンショット 2023-05-02 12 07 15](https://user-images.githubusercontent.com/127015900/235571530-45b0f641-3eac-4a51-8d0c-1cb79123c44a.png)
